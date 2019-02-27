@@ -1,14 +1,12 @@
 [
     "index.md",
-    "warning.md",
-    "tools.md",
-    "example-1.md",
-    "example-2.md",
-    "example-3.md",
-    "example-4.md",
-    "example-5.md",
-    "victory.md",
-    "example-6.md",
-    "proxies.md",
-    "end.md"
+    "design.md",
+    "abstractions.md",
+    "storage.md",
+    "pod.md",
+    "enduser.md",
+    "runit.md",
+    "application.md",
+    "homework.md",
+    "next.md"
 ]
